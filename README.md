@@ -37,5 +37,7 @@ For the purpose of evaluating my model, the test data will need to be put throug
 
 Following which, pass the processed file into the model prediction file and the results should be appended as a new 'labels' column and saved to a final_results csv file.
 
+*Note: For attempts to run through every single file, you might encounter 'file not found' errors as I have left out the original features and labels file provided for this competition. Kindly include those files to run everything successfully.*
+
 ## Conclusion
 To sum up my experience, this has been a very interesting competition for me. While I have used csv file for machine learning before, this was the first time I received a dataset with multiple rows of features across time for each ID. While I was unable to produce anything impressive for this competition, it had still been a very enjoyable learning experience. In future when I have more free time, I would certainly wish to explore other ways of processing the data as well as try out other algorithms!
